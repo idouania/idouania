@@ -2,12 +2,9 @@
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=idouania" alt="idouania" />
 </p>
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-- I write blog articles on <a href="https://amine-hy.medium.com/" target="blank">Medium</a>. Don't hesitate to connect with me on <a href="https://linkedin.com/in/aminehy" target="blank">LinkedIn</a> or reach out to me by [email](mailto:hadjyoucef.amine@gmail.com)
+I'm a doctor in Biomedical & Biomechanincal engineering.
+- 👀 I’m interested in machine learning & artificial intelligence methods for healthcare research.
+- 📫 Don't hesitate to connect with me on <a href="https://www.linkedin.com/in/ines-douania-06b86b251/" target="blank">LinkedIn</a> or reach out to me by [email](mailto:ines.douania@gmail.com)
 
 - Technical tools 
 
@@ -19,6 +16,6 @@
 | <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" alt="linux" height="45"/><img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-ar21.svg" alt="jetbrain" height="45"/><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="jetbrain" height="45"/>|
 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="linux" height="40"><img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-ar21.svg" alt="linux" height="40"/><img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" alt="databricks" height="40"/> |  
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=idouania&show_icons=true" alt="aminehy" />                    |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=idouania&show_icons=true" alt="idouania" />                  |
 | ----------------------------------------------------------------------------------------------------------------------------------------- |
 
