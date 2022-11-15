@@ -18,5 +18,4 @@
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=idouania&show_icons=true" alt="aminehy" />                    |
 | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| <img align="center" alt="aminehy" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idouania&layout=compact&hide=html"/> |
 
