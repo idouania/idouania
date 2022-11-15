@@ -15,7 +15,6 @@
 | <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg" alt="databricks" height="40"/><img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Databricks_Logo.png" alt="databricks" height="45"><img src="https://www.vectorlogo.zone/logos/json/json-ar21.svg" alt="databricks" height="40"/>|
 | <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-ar21.svg" alt="linux" height="45"/><img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-ar21.svg" alt="jetbrain" height="45"/><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="jetbrain" height="45"/>|
 | <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" alt="linux" height="40"><img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-ar21.svg" alt="linux" height="40"/><img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" alt="databricks" height="40"/> |  
-| _ <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-ar21.svg" alt="databricks" height="40"/><img src="https://www.vectorlogo.zone/logos/redashio/redashio-ar21.svg" alt="redash" height="40"> |
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=aminehy&show_icons=true" alt="aminehy" />                    |
 | ----------------------------------------------------------------------------------------------------------------------------------------- |
