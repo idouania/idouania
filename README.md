@@ -2,9 +2,9 @@
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=idouania" alt="idouania" />
 </p>
-I'm a doctor in Biomedical & Biomechanincal engineering.
-- 👀 I’m interested in machine learning & artificial intelligence methods for healthcare research.
-- 📫 Don't hesitate to connect with me on <a href="https://www.linkedin.com/in/ines-douania-06b86b251/" target="blank">LinkedIn</a> or reach out to me by [email](mailto:ines.douania@gmail.com)
+I'm a doctor in Biomedical & Biomechanincal engineering.  
+- 👀 I’m interested in machine learning & artificial intelligence methods for healthcare research.  
+- 📫 Don't hesitate to connect with me on <a href="https://www.linkedin.com/in/ines-douania-06b86b251/" target="blank">LinkedIn</a> or reach out to me by[email](mailto:ines.douania@gmail.com)  
 
 - Technical tools 
 
